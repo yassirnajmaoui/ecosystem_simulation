@@ -1,1 +1,3 @@
 # ecosystem_simulation
+
+This is an attempt to simulate the simplest version of an "ecosystem". Still need to adjust some parameters...
